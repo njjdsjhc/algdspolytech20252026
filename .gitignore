@@ -1,9 +1,0 @@
-# Visual Studio
-.vs/
-lab-C/.vs/
-
-# Temporary files
-*.ipch
-*.db
-*.sqlite
-*.wsuo
